@@ -28,10 +28,10 @@
 	</ol>
 	<p>
 		The added information was set in an attribute
-		<code>timeNow</code>
+		<code>aikaNyt</code>
 		and its value is:
 	</p>
-	<p class="time-now">${ timeNow }</p>
+	<p class="time-now">${ aikaNyt }</p>
 	<p>Try refreshing the page and you will see the dynamic value
 		changing!</p>
 	<div style="background-color: #FFB6C1;">
